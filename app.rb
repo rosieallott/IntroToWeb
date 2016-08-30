@@ -8,7 +8,7 @@ get '/' do
 end
 
 get '/secret' do
-  "This is top secret"
+  "This is top secret "
 end
 
 get '/cat' do
